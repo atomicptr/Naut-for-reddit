@@ -1,26 +1,25 @@
-/r/TYPO3 Theme
-===============
+# TYPO3 Subreddit theme
 
 The theme used for the /r/TYPO3 subreddit, based on Naut.
 
 Naut is a CSS theme you can use on reddit.com. It's free to use and any subreddit can use and edit it. Visit /r/Naut to preview the theme.
 
-![Naut 4.0](http://i.imgur.com/6iYIMcF.png)
+Naut is a CSS theme you can use on [Reddit](http://www.Reddit.com). It's free to use, any Subreddit can use and edit it. Visit [/r/Naut](http://www.Reddit.com/r/Naut) to preview the theme.
 
+![Naut 4.2](http://i.imgur.com/6iYIMcF.png)
 
-Installation Instructions
-===============
+## Installation
 
-'Subreddit' should be changed to your subreddit name.
+1. [Download](https://github.com/Axel--/Naut-for-reddit/releases/latest) the Latest Naut Release.
+2. Navigate to `/r/YourSubreddit/about/stylesheet`.
+3. Paste the CSS from the `Naut 4 - Main CSS File.css` file into the Stylesheet text area.
+4. Upload the images from the `/images/` folder, be sure not to rename them.
+5. Save!
 
-  1. Go to /r/subreddit/about/stylesheet
-  2. Paste the CSS from the 'Naut 4 - Main CSS File.css' file into the CSS textarea.
-  3. Upload the images from the /images/ folder. (Don't rename them!)
-  4. Hit save!
+You may now customize Naut by either adding your own unique CSS Styles after Naut, or by visiting the [Naut Addons Repository](https://github.com/Axel--/Naut-for-reddit/tree/master/Addons)!
 
-Now you can customize it by either adding customization lines yourself, or by visiting the [/r/Naut wiki](https://www.reddit.com/r/naut/wiki/index) and customizing it yourself!
+If you have any questions on how to customize, [/r/CSSHelp](https://www.reddit.com/r/csshelp) might be better suited than [/r/Naut](https://www.reddit.com/r/Naut).
 
-If you have any questions on how to customize, [/r/CSSHelp](https://www.reddit.com/r/csshelp) might be better suited than [/r/Naut](https://www.reddit.com/r/Naut)!
+## Contributing
 
-
-## [Click here to download](https://github.com/Axel--/Naut-for-reddit/releases/latest)
+See [CONTRIBUTING.md](https://github.com/Axel--/Naut-for-reddit/blob/master/CONTRIBUTING.md) for more information.
